@@ -1,21 +1,32 @@
-🎯 Number Guessing Game
+NUMBER_GUESSING_GAME
+About
+This is a simple number guessing game built using HTML, CSS, and JavaScript. The player guesses a number, and the game provides hints to guide them toward the correct answer.
 
-A simple web-based number guessing game where users guess a random number with interactive hints.
+Features
+Interactive UI with real-time feedback.
 
-🚀 Features
+Dynamic messages based on the guessed number.
 
-✅ Random number generation
-✅ Dynamic feedback (higher/lower hints)
-✅ Auto-resizing background for messages
+Background color adapts to the displayed message size.
 
-📂 Files:
+Technologies Used
+HTML
 
-index.html – Game UI
-style.css – Styling
-script.js – Game logic
+CSS
 
-🛠️ How to Run
+JavaScript
 
-Clone the repo:
- https://kiransai-5c5.github.io/GUESS_NUMBER/
-Open index.html in a browser.
+How to Run
+Clone this repository:
+
+bash
+Copy
+Edit
+git clone https://github.com/kiransai-5C5/NUMBER_GUESSING_GAME.git  
+
+
+
+
+
+
+
