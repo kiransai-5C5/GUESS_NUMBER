@@ -20,7 +20,7 @@ This is a simple number guessing game built using HTML, CSS, and JavaScript. The
 
 Clone this repository:  
 ```bash
-git clone https://github.com/kiransai-5C5/GUESS_NUMBER.git
+ https://kiransai-5c5.github.io/GUESS_NUMBER/
 
 
 
